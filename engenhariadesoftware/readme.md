@@ -1,4 +1,4 @@
-# Comentários sobre o livro `Software Engineering at Google` - Cauã Cursino 2° ADS :shipit:
+<img width="940" height="303" alt="image" src="https://github.com/user-attachments/assets/69209dd8-b329-4e39-9d20-29101b5e6b74" /># Comentários sobre o livro `Software Engineering at Google` - Cauã Cursino 2° ADS :shipit:
 
 ## Exercício 1) Trecho 1
 > What precisely do we mean by software engineering? What distinguishes “software engineering” from “programming” or “computer science”? And why would Google have a unique perspective to add to the corpus of previous software engineering literature written over the past 50 years? The terms “programming” and “software engineering” have been used interchangeably for quite some time in our industry, although each term has a different emphasis and different implications. University students tend to study computer science and get jobs writing code as “programmers.” “Software engineering,” however, sounds more serious, as if it implies the application of some theoretical knowledge to build something real and precise. Mechanical engineers, civil engineers, aeronautical engineers, and those in other engineering disciplines all practice engineering. They all work in the real world and use the application of their theoretical knowledge to create something real. Software engineers also create “something real,” though it is less tangible than the things other engineers create. Unlike those more established engineering professions, current software engineering theory or practice is not nearly as rigorous. Aeronautical engineers must follow rigid guidelines and practices, because errors in their calculations can cause real damage; programming, on the whole, has traditionally not followed such rigorous practices. But, as software becomes more integrated into our lives, we must adopt and rely on more rigorous engineering methods. We hope this book helps others see a path toward more reliable software practices.
@@ -31,5 +31,45 @@ Engenheiros de software também criam “coisas reais”, porém `menos tangíve
 * Outro caso comum é o `tempo e precisão`. Em projetos com prazos curtos, a equipe pode acelerar as entregas, o que geralmente reduz a profundidade da análise ou o cuidado nos detalhes. Cumprir o prazo garante a entrega rápida, mas pode comprometer a confiabilidade do resultado.
 
 * Um terceiro exemplo é o `flexibilidade e eficiência`. Processos muito flexíveis permitem diversas adaptações e personalizações, atendendo diferentes necessidades, mas essa característica pode tornar o trabalho mais lento e custoso. Já um processo altamente eficiente é rápido e econômico, mas menos adaptável a mudanças.
+
+<br>
+<br>
+
+## Exercício 4) Diagrama de classes UML
+Abaixo, se encontra o diagrama de classes do projeto `Mercado`:
+<p></p>
+<div align="center"><img src="./img/Mercado.drawio (1).png"></div>
+
+<br>
+<br>
+
+## Exercício 5) Código JAVA
+Abaixo, se encontram os códigos referentes ao diagrama de classes do projeto `Mercado`:
+<p></p>
+
+`Classe Mercado`
+<div align="center"><img src="./img/class_Mercado.png"></div>
+
+`Classe Produto`
+<div align="center"><img src="./img/class_Produto.png"></div>
+
+`Classe Compra`
+<div align="center"><img src="./img/class_Compra.png"></div>
+
+
+## Exercício 6) Testes automátizados
+Abaixo, se encontram testes referentes aos códigos do projeto `Mercado`:
+
+`Teste 1`
+<div align="center"><img src="./img/class_Teste.png"></div>
+
+`Teste 2`
+<div align="center"><img src="./img/class_Teste2.png"></div>
+
+
+> [!IMPORTANT]
+> Seguem os resultados dos testes:
+
+<div align="center"><img src="./img/class_Teste2.png"></div>
 
 
