@@ -88,7 +88,7 @@ Abaixo, se encontram testes referentes aos códigos do projeto `Mercado`:
 ## Exercício 7) Diagrama de classes UML
 Abaixo, se encontra o diagrama de classes do projeto `Companhia`:
 <p></p>
-<div align="center"><img src="./img/"></div>
+<div align="center"><img src="./img/Diagrama_aviao.drawio.png"></div>
 
 <br>
 <br>
@@ -120,6 +120,7 @@ Abaixo, se encontram testes referentes aos códigos do projeto `Companhia`:
 > Seguem os resultados dos testes:
 
 <div align="center"><img src="./img/resultado_testes_aviao.png"></div>
+
 
 
 
