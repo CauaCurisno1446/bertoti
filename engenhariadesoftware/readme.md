@@ -1,4 +1,4 @@
-<img width="940" height="303" alt="image" src="https://github.com/user-attachments/assets/69209dd8-b329-4e39-9d20-29101b5e6b74" /># Comentários sobre o livro `Software Engineering at Google` - Cauã Cursino 2° ADS :shipit:
+# Comentários sobre o livro `Software Engineering at Google` - Cauã Cursino 2° ADS :shipit:
 
 ## Exercício 1) Trecho 1
 > What precisely do we mean by software engineering? What distinguishes “software engineering” from “programming” or “computer science”? And why would Google have a unique perspective to add to the corpus of previous software engineering literature written over the past 50 years? The terms “programming” and “software engineering” have been used interchangeably for quite some time in our industry, although each term has a different emphasis and different implications. University students tend to study computer science and get jobs writing code as “programmers.” “Software engineering,” however, sounds more serious, as if it implies the application of some theoretical knowledge to build something real and precise. Mechanical engineers, civil engineers, aeronautical engineers, and those in other engineering disciplines all practice engineering. They all work in the real world and use the application of their theoretical knowledge to create something real. Software engineers also create “something real,” though it is less tangible than the things other engineers create. Unlike those more established engineering professions, current software engineering theory or practice is not nearly as rigorous. Aeronautical engineers must follow rigid guidelines and practices, because errors in their calculations can cause real damage; programming, on the whole, has traditionally not followed such rigorous practices. But, as software becomes more integrated into our lives, we must adopt and rely on more rigorous engineering methods. We hope this book helps others see a path toward more reliable software practices.
@@ -56,6 +56,12 @@ Abaixo, se encontram os códigos referentes ao diagrama de classes do projeto `M
 `Classe Compra`
 <div align="center"><img src="./img/class_Compra.png"></div>
 
+> [!IMPORTANT]
+> Correção: O atributo "total" deve estar em 'double' ao invés de 'int',
+> já que o método que retorna o valor está em 'double'
+
+<br>
+<br>
 
 ## Exercício 6) Testes automátizados
 Abaixo, se encontram testes referentes aos códigos do projeto `Mercado`:
@@ -65,11 +71,15 @@ Abaixo, se encontram testes referentes aos códigos do projeto `Mercado`:
 
 `Teste 2`
 <div align="center"><img src="./img/class_Teste2.png"></div>
+<p></p>
+<p></p>
 
 
 > [!IMPORTANT]
 > Seguem os resultados dos testes:
 
-<div align="center"><img src="./img/class_Teste2.png"></div>
+<div align="center"><img src="./img/resultado_testes.png"></div>
+
+
 
 
