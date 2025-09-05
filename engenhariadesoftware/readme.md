@@ -81,5 +81,47 @@ Abaixo, se encontram testes referentes aos códigos do projeto `Mercado`:
 <div align="center"><img src="./img/resultado_testes.png"></div>
 
 
+<br>
+<br>
+
+
+## Exercício 7) Diagrama de classes UML
+Abaixo, se encontra o diagrama de classes do projeto `Companhia`:
+<p></p>
+<div align="center"><img src="./img/"></div>
+
+<br>
+<br>
+
+## Exercício 8) Código JAVA
+Abaixo, se encontram os códigos referentes ao diagrama de classes do projeto `Companhia`:
+<p></p>
+
+`Classe Companhia`
+<div align="center"><img src="./img/class_Companhia.png"></div>
+
+`Classe Aviao`
+<div align="center"><img src="./img/class_Aviao.png"></div>
+
+
+<br>
+<br>
+
+## Exercício 9) Testes automátizados
+Abaixo, se encontram testes referentes aos códigos do projeto `Companhia`:
+
+`Teste 1`
+<div align="center"><img src="./img/class_Teste_Aviao.png"></div>
+<p></p>
+<p></p>
+
+
+> [!IMPORTANT]
+> Seguem os resultados dos testes:
+
+<div align="center"><img src="./img/resultado_testes_aviao.png"></div>
+
+
+
 
 
