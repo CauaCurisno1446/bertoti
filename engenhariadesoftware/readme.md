@@ -56,6 +56,12 @@ Abaixo, se encontram os códigos referentes ao diagrama de classes do projeto `M
 `Classe Compra`
 <div align="center"><img src="./img/class_Compra.png"></div>
 
+> [!IMPORTANT]
+> Correção: O atributo "total" deve estar em 'double' ao invés de 'int',
+> já que o método que retorna o valor está em 'double'
+
+<br>
+<br>
 
 ## Exercício 6) Testes automátizados
 Abaixo, se encontram testes referentes aos códigos do projeto `Mercado`:
@@ -73,6 +79,7 @@ Abaixo, se encontram testes referentes aos códigos do projeto `Mercado`:
 > Seguem os resultados dos testes:
 
 <div align="center"><img src="./img/resultado_testes.png"></div>
+
 
 
 
