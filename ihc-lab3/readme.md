@@ -1,0 +1,1 @@
+# Diretório IHC `Agente Ollama` - Cauã Cursino 3° ADS
