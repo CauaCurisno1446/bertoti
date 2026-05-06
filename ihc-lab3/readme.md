@@ -10,4 +10,7 @@
 > Kauan Victor Domingues Nascimento
 >
 
-## Link do projeto (Google Colab): https://colab.research.google.com/drive/1O_C-KGIcMU-jq7ShmuSaG4zBPBO90ovN?usp=sharing
+
+## Link do projeto (Google Colab): https://colab.research.google.com/drive/1NCE8TFgCt6kB5a-FQ3PW3HRYppxG68kr?usp=sharing
+>[!NOTE]
+>O proejto está rodando com a configuração `GPUs: T4`
